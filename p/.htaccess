@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "p"
+AuthUserFile "/home2/kunalsha/.htpasswds/public_html/fashioncents/p/passwd"
+require valid-user

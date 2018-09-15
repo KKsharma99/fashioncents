@@ -1,0 +1,71 @@
+[27-Jan-2017 16:04:16 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 29
+[27-Jan-2017 16:10:07 America/Denver] PHP Fatal error:  Call to undefined function definte() in /home2/kunalsha/public_html/fashioncents/android_api/Config.php on line 8
+[27-Jan-2017 16:13:05 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:05 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:12 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:12 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:12 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:57 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:57 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:13:57 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:16:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:16:01 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:16:01 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:17:15 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:17:15 America/Denver] PHP Fatal error:  Cannot access empty property in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:19:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:19:08 America/Denver] PHP Fatal error:  Cannot access empty property in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:20:25 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:20:25 America/Denver] PHP Fatal error:  Cannot access empty property in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:21:56 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:21:56 America/Denver] PHP Fatal error:  Cannot access empty property in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:23:35 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:23:35 America/Denver] PHP Fatal error:  Cannot access empty property in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:24:42 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:24:42 America/Denver] PHP Fatal error:  Cannot access empty property in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:25:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:25:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:25:49 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:28:04 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:28:04 America/Denver] PHP Fatal error:  Cannot access empty property in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 12
+[27-Jan-2017 16:28:59 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:28:59 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:28:59 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:29:59 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:29:59 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:29:59 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:34:36 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:34:36 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:34:36 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:36:55 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:36:55 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:36:55 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:37:46 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:37:46 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:37:46 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 42
+[27-Jan-2017 16:43:38 America/Denver] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING), expecting function (T_FUNCTION) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 4
+[27-Jan-2017 16:43:43 America/Denver] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING), expecting function (T_FUNCTION) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 4
+[27-Jan-2017 16:44:23 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 39
+[27-Jan-2017 16:44:23 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 39
+[27-Jan-2017 16:49:48 America/Denver] PHP Fatal error:  Call to undefined function connect() in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 9
+[27-Jan-2017 16:51:48 America/Denver] PHP Fatal error:  Call to undefined function connect() in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 9
+[27-Jan-2017 16:55:02 America/Denver] PHP Notice:  Undefined variable: last_name in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 20
+[31-Jan-2017 09:02:37 America/Denver] PHP Parse error:  syntax error, unexpected '" OR c.followerid = "' (T_CONSTANT_ENCAPSED_STRING) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 62
+[31-Jan-2017 09:02:39 America/Denver] PHP Parse error:  syntax error, unexpected '" OR c.followerid = "' (T_CONSTANT_ENCAPSED_STRING) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 62
+[31-Jan-2017 09:04:36 America/Denver] PHP Parse error:  syntax error, unexpected '" OR c.followerid = "' (T_CONSTANT_ENCAPSED_STRING) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 62
+[31-Jan-2017 09:07:40 America/Denver] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 64
+[31-Jan-2017 09:07:56 America/Denver] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 64
+[31-Jan-2017 09:08:31 America/Denver] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 64
+[31-Jan-2017 09:11:29 America/Denver] PHP Notice:  Undefined variable: number in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 66
+[31-Jan-2017 09:11:48 America/Denver] PHP Notice:  Undefined variable: number in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 66
+[31-Jan-2017 09:12:00 America/Denver] PHP Notice:  Undefined variable: number in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 66
+[31-Jan-2017 09:15:04 America/Denver] PHP Warning:  Missing argument 3 for DB_Functions::getNextPosts(), called in /home2/kunalsha/public_html/fashioncents/android_api/androidpost.php on line 17 and defined in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 59
+[03-Feb-2017 16:34:23 America/Denver] PHP Notice:  Undefined variable: posts in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 73
+[03-Feb-2017 16:34:33 America/Denver] PHP Notice:  Undefined variable: posts in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 73
+[03-Feb-2017 16:40:12 America/Denver] PHP Notice:  Undefined variable: number in /home2/kunalsha/public_html/fashioncents/android_api/androidpost.php on line 25
+[07-Feb-2017 08:39:34 America/Denver] PHP Notice:  Undefined index: postid in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 81
+[07-Feb-2017 08:39:34 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 85
+[07-Feb-2017 08:39:34 America/Denver] PHP Notice:  Undefined index: userid in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 96
+[07-Feb-2017 08:39:34 America/Denver] PHP Notice:  Undefined index: postid in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 98
+[07-Feb-2017 08:39:34 America/Denver] PHP Notice:  Undefined index: userid in /home2/kunalsha/public_html/fashioncents/android_api/DB_Functions.php on line 106
