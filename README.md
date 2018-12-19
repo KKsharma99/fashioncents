@@ -31,4 +31,6 @@ MYSQL
 
 ## Acknowledgments
 
-* Thank you to the Georgia Tech Create-X Program for accepting us into the Summer 2017 startup incubation program and for providing us with $20,000 in funding.
+Thank you to the Georgia Tech Create-X Program for accepting us into the Summer 2017 startup incubation program and for providing us with $20,000 in funding.
+
+
