@@ -4,21 +4,21 @@
 
 Fashioncents is an online social shopping experience where users can post their outfits and tag the items that they are wearing from over 100 brands. Users can also follow fashionable users and learn how to dress more fashionably. See it, Like it, Buy it.
 
-![Overview](img/readme/overview.png)
+![Overview](img/readme/overview.PNG)
 
 
 ## User Feed
 
 Once an account is made, users can see a feed of outfits. Under each outfit are details of the items worn. These details include the name of the item, the cost, the brand and the seller. Users can follow models as they like.
 
-![Overview](img/readme/main.png)
+![Overview](img/readme/main.PNG)
 
 
 ## Post an Outfit
 
 Users can also upload their outfits by adding an image of their outfit. They can then search a database of over 5 million clothing items from over 100 partnered brands to attatch on to the post.
 
-![Overview](img/readme/upload.png)
+![Overview](img/readme/upload.PNG)
 
 
 ### Languages used for Development
