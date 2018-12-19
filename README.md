@@ -2,7 +2,7 @@
 
 Fashioncents is an online social shopping experience where users can post their outfits and tag the items that they are wearing from over 100 brands. Users can also follow fashionable users and learn how to dress more fashionably. See it, Like it, Buy it.
 
-![Overview](img/readme/overview.png)
+![Overview](img/readme/overview.PNG)
 
 ## Getting Started
 
